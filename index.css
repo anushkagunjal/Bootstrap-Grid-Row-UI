@@ -1,0 +1,51 @@
+h3 {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(30, 113, 161);
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 40px;
+}
+.size
+{
+    height: 350px;
+    background-color:  rgb(30, 113, 161);
+    font-size: 14px;
+}
+.img1
+{
+    background-image: url(images/pexels-artem-beliaikin-853199.jpg);
+}
+.img2
+{
+    background-image: url(images/pexels-dominika-roseclay-2112008.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img
+{
+    width: 100%;
+    height: 350px;
+}
+.line
+{
+    margin-top: 20px;
+}
+p
+{
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+}
+h6{
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+}
+.textover
+{
+    text-align: center;
+    padding: 15%;
+}
